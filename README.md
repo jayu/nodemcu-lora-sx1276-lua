@@ -1,6 +1,6 @@
 # NodeMCU LoRa module library
 
-NodeMCU library for LoRa SX1276/SX1278 radio communication modules
+NodeMCU lua library for LoRa SX1276/SX1278 radio communication modules
 
 The library is a based on the library from https://github.com/JaapBraam/LoRaWanGateway 
 
